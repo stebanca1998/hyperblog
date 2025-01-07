@@ -1,3 +1,5 @@
 Este es un ejemplo de archivo para el curso de git en Platzi
 
 Espero poder aprender mucho y completar esta ruta para volverme un Data Scientist
+
+Linea adicional para un segundo commit
